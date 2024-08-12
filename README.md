@@ -104,7 +104,7 @@ esta es la historia de son Goku el ser que salvo a la humanidad infinidad de vec
             color: #fff;
             background-color: #333;
         }
-
+        
 </head>
 <body>
     <header class="bg-primary text-white text-center py-4">
