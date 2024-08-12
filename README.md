@@ -1,5 +1,4 @@
 # andresfepile
-esta es la historia de son Goku el ser que salvo a la humanidad infinidad de veces
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -105,63 +104,6 @@ esta es la historia de son Goku el ser que salvo a la humanidad infinidad de vec
             background-color: #333;
         }
 
-        /* Estilos del segundo código */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        nav ul {
-            margin: 0;
-            padding: 0;
-        }
-        nav ul li {
-            float: left;
-        }
-        nav ul li a {
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-        }
-        nav ul li a:hover {
-            background-color: #111;
-        }
-        section {
-            padding: 1em;
-            background-color: #f4f4f4;
-            margin-left: 200px;
-        }
-        aside {
-            width: 200px;
-            position: absolute;
-            left: 0;
-            top: 100px;
-            background-color: #f4f4f4;
-            padding: 1em;
-            box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-        }
-        footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 1em;
-            position: absolute;
-            bottom: 0;
-            width: 100%;
-        }
-        header, nav, section, aside, footer {
-            border: 1px solid #ccc;
-            margin: 10px;
-            padding: 10px;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
 </head>
 <body>
     <header class="bg-primary text-white text-center py-4">
